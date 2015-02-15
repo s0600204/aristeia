@@ -50,6 +50,13 @@
       egyptian/territory_gain_twoLands
     </Technologies>
   </ProductionQueue>
+  <ResourceTrickle>
+    <FoodRate>0</FoodRate>
+    <WoodRate>0</WoodRate>
+    <StoneRate>0</StoneRate>
+    <MetalRate>0.1</MetalRate>
+    <Interval>1000</Interval>
+  </ResourceTrickle>
   <TerritoryInfluence>
     <Root>true</Root>
     <Radius>48</Radius>
