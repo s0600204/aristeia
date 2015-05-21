@@ -1,7 +1,8 @@
 {
 	"Code":"egyptian",
-	"Culture":"egypt",
-	"Name":"Egyptians",
+	"Culture": [ "egypt" ],
+	"Region": [ "africa" ],
+	"Name":"New Kingdom Egyptians",
 	"Emblem":"session/portraits/emblems/emblem_egyptians.png",
 	"History":"...",
 	"Music":[
